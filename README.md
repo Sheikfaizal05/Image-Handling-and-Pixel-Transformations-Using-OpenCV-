@@ -13,8 +13,8 @@ Use OpenCV and Matplotlib to read, display, save, crop, resize, flip, and annota
 
 ## Exercise 01
 
-**Name:** AKASH CT  
-**Register No.:** 212224240007  
+**Name:** Sheik faizal S  
+**Register No.:** 212224240151
 **Slot No.:** T2  
 **Slot Code:** 26OD2199  
 **Academic Year:** 2026-27
